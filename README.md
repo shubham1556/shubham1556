@@ -4,7 +4,7 @@ I believe in code that's not just functional, but a joy to read, understand, and
 
 I'm always eager to delve into the intricacies of applications, optimizing performance and refactoring code for clarity and maintainability. At Cvent, I've had the opportunity to implement various design patterns while tackling challenging refactoring projects, further solidifying my understanding of clean code principles.
 
-My diverse language experience spans Java, JavaScript, TypeScript and C#, and I'm adept at utilizing frameworks like Dropwizard, React, and React Native. My database fluency includes PostgreSQL and SQL, letting me handle data with confidence across the stack.
+My diverse language experience spans Java, JavaScript, TypeScript and C#, and I'm adept at utilizing frameworks like Dropwizard, React, and React Native. My database fluency includes PostgreSQL and MS SQL Server, letting me handle data with confidence across the stack.
 
 When I'm not coding, you can find me exploring new technologies, reading books, or simply geeking out over well-written code, be it front-end elegance or back-end brilliance.
 
