@@ -6,7 +6,7 @@ I'm always eager to delve into the intricacies of applications, optimizing perfo
 
 My diverse language experience spans Java, JavaScript, TypeScript and C#, and I'm adept at utilizing frameworks like Dropwizard, React, and React Native. My database fluency includes PostgreSQL and MS SQL Server, letting me handle data with confidence across the stack.
 
-When I'm not coding, you can find me exploring new technologies, reading books, or simply geeking out over well-written code, be it front-end elegance or back-end brilliance.
+When I'm not coding, you can find me exploring new technologies, reading books, finding out internals of systems, watching [GOTO Conferences](https://youtube.com/@GOTO-) or simply geeking out over well-written code, be it front-end elegance or back-end brilliance.
 
 Collaboration, learning, and knowledge sharing are my core values. Feel free to [reach out](https://www.linkedin.com/in/shubhamrajputdce/), let's connect and build something awesome together!
 
