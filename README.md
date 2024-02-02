@@ -2,11 +2,11 @@
 
 I believe in code that's not just functional, but a joy to read, understand, and test. Unit tests and well-written SQL queries are my trusty companions, while design patterns are my tools for building robust and flexible architectures.
 
-I'm always eager to delve into the intricacies of applications, optimizing performance and refactoring code for clarity and maintainability. At [Cvent](https://github.com/cvent), I've had the opportunity to implement various design patterns while tackling challenging refactoring projects, further solidifying my understanding of clean code principles.
+I'm always eager to delve into the intricacies of applications, optimizing performance and refactoring code for clarity and maintainability. At [Cvent](https://github.com/cvent), I've had the opportunity to implement various design patterns while tackling challenging product requirements, further solidifying my understanding of clean code principles.
 
-My diverse language experience spans Java, JavaScript, TypeScript and C#, and I'm adept at utilizing frameworks like Dropwizard, React, and React Native. My database fluency includes PostgreSQL and MS SQL Server, letting me handle data with confidence across the stack.
+My diverse language experience spans Java, JavaScript and TypeScript, and I'm adept at utilizing frameworks like Dropwizard, React, and React Native. My database fluency includes PostgreSQL and MS SQL Server, letting me handle data with confidence across the stack.
 
-When I'm not coding, you can find me exploring new technologies, reading books, finding out internals of systems, watching [GOTO Conferences](https://youtube.com/@GOTO-) or simply geeking out over well-written code, be it front-end elegance or back-end brilliance.
+When I'm not coding, you can find me exploring new technologies, reading books, diving into internals of software systems, watching [GOTO Conferences](https://youtube.com/@GOTO-) or simply geeking out over well-written code, be it front-end elegance or back-end brilliance.
 
 Collaboration, learning, and knowledge sharing are my core values. Feel free to [reach out](https://www.linkedin.com/in/shubhamrajputdce/), let's connect and build something awesome together!
 
